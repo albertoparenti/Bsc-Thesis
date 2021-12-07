@@ -1,5 +1,4 @@
-setwd("C:/Users/Alberto Parenti/Downloads/STUDY/UNIBO/TO DO/THESIS")
-getwd()
+
 library(dplyr)
 library(RColorBrewer)
 library(ngram)
@@ -10,10 +9,6 @@ library(tidyr)
 library(syuzhet)
 library(udpipe)
 library(stringr)
-
-source("C:/Users/Alberto Parenti/Downloads/STUDY/UNIBO/TO DO/THESIS/funzioniTesto.R")
-source("C:/Users/Alberto Parenti/Downloads/STUDY/UNIBO/TO DO/THESIS/sentimentFunctions.R")
-source("C:/Users/Alberto Parenti/Downloads/STUDY/UNIBO/TO DO/THESIS/new_funzioni.R")
 
 # per scaricare altri modelli per la lemmatizzazione in inglese si possono usare i comandi
 # x <- udpipe_download_model(language = "english-partut")
