@@ -1,4 +1,4 @@
-# Thesis
+# Bachelor's Thesis
  
 ## Introduction
 
